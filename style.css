@@ -1,0 +1,23 @@
+
+html{
+    color-scheme: dark;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#fileInput {
+    display: none;
+}
+
+#result > img {
+    width: 300px;
+    height: inherit;
+}
+
+#result > textarea {
+    width: 60%;
+    height: 300px;
+}
